@@ -1,0 +1,2 @@
+# poolBiddingBot
+Studypool bidding bot
